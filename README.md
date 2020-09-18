@@ -6,5 +6,9 @@
 
 ## 目录结构
 
-> xHelper_Ec.js    EasyClick帮助类
+> AutoJs 帮助类 ----- 暂未开源
+>
+> 按键精灵安卓版 ----- 暂未开源
+>
+> EasyClick帮助类 ----- xHelper_Ec.js  
 
