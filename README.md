@@ -12,3 +12,10 @@
 >
 > EasyClick帮助类 ----- xHelper_Ec.js  
 
+## 赞赏
+
+如果这个开源项目 可以帮助到你,  你也可以请作者喝一杯咖啡。
+
+![](http://xxxxue.gitee.io/important/aliPay.png)
+
+![](http://xxxxue.gitee.io/important/wxPay.png)
